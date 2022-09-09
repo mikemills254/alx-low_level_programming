@@ -1,16 +1,15 @@
 /*
  * File: 0-positive_or_negative
  * Auth: Mike Mills
- */
-	
+ */	
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
 /**
- * main -This code prints randoom number
+ * main-This code prints randoom number
  * 	and declares if positive or negative
  *
- * 	Return: Always 0.
+ * 	Return:Always 0.
  */
 int main(void)
 {
@@ -27,5 +26,5 @@ int main(void)
 		printf("%d is zero\n", n);
 
 
-	return(0);
+	return (0);
 }
