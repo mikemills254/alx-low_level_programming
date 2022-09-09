@@ -20,3 +20,6 @@ Task 8:Unix is a simple os but you need to to be agenius to understand simplicit
 9. Patience, persistence and perspiration make an unbeatable combination for success
 
 
+11. Inventing is a combination of brains and materials. The more brains you use, the less material you need
+12. The success combination in business is: Do what you do better... and: do more of what you do...
+13. Software is eating the World
