@@ -4,6 +4,7 @@
  */
 
 #include <stdio.h>
+
 /**
  * main - print all conbinations of single digit number 
  *
