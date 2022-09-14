@@ -2,10 +2,8 @@
  * file: 0-putchar.c
  * Author: Mike Mills
  */
-
 #include <stdio.h>
 #include "main.h"
-
 /**
  * main: Print _putchar followed by an empty line
  *
