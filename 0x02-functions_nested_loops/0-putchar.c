@@ -1,25 +1,20 @@
-/*
- * File: 0-putchar.c
- * Author Mike Mills
- */
 #include <stdio.h>
-#include "main.h>
+#include "main.h"
 
-/**
- * main: Print _putchar followed by new line
+/*
+ * main: Returns _putchar followed by and empty space
  *
- * Return Always 0
+ * Returns Always 0
  */
 int main(void)
-{	
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	
+{
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
 	return (0);
 }
