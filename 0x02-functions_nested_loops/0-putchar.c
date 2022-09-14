@@ -6,11 +6,11 @@
 #include <stdio.h>
 #include "main.h"
 
-/*
- * main: Returns _putchar followed by and empty space
+/**
+ * main: Print _putchar followed by an empty line
  *
- * Returns Always 0
- */
+ * Return Always 0
+ */ 
 int main(void)
 {
 	putchar('_');
