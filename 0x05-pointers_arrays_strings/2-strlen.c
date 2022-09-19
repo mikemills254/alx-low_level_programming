@@ -8,6 +8,7 @@
 /**
  * _strlen - Prints the length of a string
  * @s: The string to be measured length
+ * Return: The length of @str.
  */
 size_t _strlen(const char *s)
 {
