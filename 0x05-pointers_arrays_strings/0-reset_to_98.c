@@ -3,29 +3,15 @@
  * Author Mike Mills
  */ 
 
-#include "main.h"
-#include <stdio.h>
+#include "holberton.h"
+
 /*
  * reset_to_98: Resets the value of n
  *
- * Returns nothing
+ * @n: Pointer to an int
  */
 
 void reset_to_98(int *n)
 {
 	*n = 98;
-}
-/**
- * main: Returns the value of the function reset_to_98
- *
- * Return Always  0
- */
-int main(void)
-{
-	int p;
-	p = 40;
-	reset_to_98(&p);
-	printf("The value for p:%d\n", p);
-	putchar('\n');
-	return (0);
 }
