@@ -6,12 +6,12 @@
 #include "holberton.h"
 #include <stdio.h>
 /**
- * puts_half - Prints half of the characters found in string followed by white space
+ * puts_half - Prints half of the string
  * @str: The string to printed
  */
 void puts_half(char *str)
 {
-	int index = 0, len = 0,n;
+	int index = 0, len = 0, n;
 
 	while (str[index++])
 		len++;
